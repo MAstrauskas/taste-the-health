@@ -1,0 +1,63 @@
+{
+  "recipes": [
+    {
+      "id": "1",
+      "title": "Shrek Soup",
+      "time": "20min",
+      "portions": 4,
+      "difficulty": "easy",
+      "ingredients": [
+        {
+          "name": "Green peas",
+          "amount": 400,
+          "amount_type": "grams"
+        },
+        {
+          "name": "Coconut milk",
+          "amount": 0.5,
+          "amount_type": "can"
+        },
+        {
+          "name": "Lemon",
+          "amount": 0.5
+        },
+        {
+          "name": "Vegetable broth",
+          "amount": 200,
+          "amount_type": "ml"
+        },
+        {
+          "name": "Spring Onions",
+          "amount": 2,
+          "amount_type": "leafs"
+        },
+        {
+          "name": "Coriander",
+          "amount": 2,
+          "amount_type": "leafs"
+        },
+        {
+          "name": "Basil",
+          "amount": 2,
+          "amount_type": "leafs"
+        },
+        {
+          "name": "Salt",
+          "amount": 1,
+          "amount_type": "teaspoon"
+        }
+      ],
+      "instructions": [
+        "Heat coconut oil in a saucepan",
+        "Wash and cut spring onions, coriander and basil",
+        "Put everything in a saucepan and cook for a few minutes",
+        "Add green peas and squeeze lemon",
+        "Add coconut milk and vegetable broth",
+        "Bring to the boil for 5-10 minutes",
+        "Transfer everything to a blender and blend for 2 minutes",
+        "Add salt or pepper for taste",
+        "Enjoy your healthy soup!"
+      ]
+    }
+  ]
+}

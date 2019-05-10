@@ -3,9 +3,9 @@ import { BrowserRouter as Router, Route, Link } from "react-router-dom";
 
 import "bootstrap/dist/css/bootstrap.min.css";
 
-import RecipesList from "./components/Recipes/recipes-list.component";
-import EditRecipe from "./components/Recipes/edit-recipe.component";
-import AddRecipe from "./components/Recipes/add-recipe.component";
+import RecipesList from "./components/Recipes/RecipeList/RecipeList";
+import AddRecipe from "./components/Recipes/AddRecipe/AddRecipe";
+
 class App extends Component {
   render() {
     return (
@@ -32,7 +32,7 @@ class App extends Component {
           </nav>
         </div>
         <Route path="/" exact component={RecipesList} />
-        <Route path="/edit/:id" component={EditRecipe} />
+        {/*<Route path="/edit/:id" component={EditRecipe} />*/}
         <Route path="/add" component={AddRecipe} />
       </Router>
     );
