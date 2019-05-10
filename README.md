@@ -6,8 +6,6 @@ A web application that allows you to post and save your favourite recipes from a
 
 - [React.js](https://reactjs.org/) - The web framework used
 - [Node.js](https://nodejs.org/en/) - JavaScript runtime environment
-- [Express.js](https://expressjs.com/) - Web framework for Node.js
-- [MongoDB](https://www.mongodb.com/) - Open Source Document Database
 - [Jest](https://jestjs.io/) - JavaScript testing
 - [Babel](https://babeljs.io/) - Compiler for next generation JavaScript
 - [Webpack](https://webpack.js.org/) - Module bundler
